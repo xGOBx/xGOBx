@@ -32,7 +32,7 @@
   - Motherboard: ASRock Z390m-ITX
   - Memory: G.Skill Trident Z RGB 16 GB (2 x 8 GB) DDR4-3600
   - Storage: Samsung 870 Evo 1 TB
-  -Keyboard: Keychron C2 Wired Standard Keyboard
+  - Keyboard: Keychron C2 Wired Standard Keyboard
   - Mouse:  Logitech MX Vertical
 
   <summary>Audio</summary>
