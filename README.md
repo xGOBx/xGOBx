@@ -1,7 +1,6 @@
 <h3 align="center">
-    <img src="https://i.imgur.com/DpkgpTN.jpeg" alt="My-banner">
+    <img src="https://i.imgur.com/fo3cTBF.jpeg" alt="My-banner">
 </h3>
-
 
 
 
