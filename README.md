@@ -49,7 +49,7 @@
     <li>CPU: Intel Core i9-9900K</li>
     <li>Heatsink: Noctua NH-U9S</li>
     <li>Motherboard: ASRock Z390m-ITX</li>
-    <li>Memory: G.Skill Trident Z RGB 16 GB (2 x 8 GB) DDR4-3600</li>
+    <li>Memory: G.Skill Trident Z RGB 32 GB (2 x 16 GB) DDR4-3600</li>
     <li>Storage: Samsung 870 Evo 1 TB</li>
     <li>Keyboard: Keychron C2 Wired Standard Keyboard</li>
     <li>Mouse: Logitech MX Vertical</li>
