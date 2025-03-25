@@ -13,24 +13,35 @@
 - 🔐 Cybersecurity
 - 📱 Software Development
 - 👨‍🎓 Behavioural Psychology
-- 🪙 Cryptocurrency
-
-<br><br><br><br>
-
-### 🛠️ **Languages & Tools**
-
+- 💰 Cryptocurrency
+<br><br>
+### 🛠️ **Language & Technology Proficiency**
+#### Strong Proficiency
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,rust,react,nodejs,mongodb,mysql,tailwind,firebase,java,postman,git,linux,c#" height="40" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=react,mysql,java,cs,dotnet" height="40" alt="Strong Proficiency Technologies" />
 </div>
 
-### 📊 **GitHub Stats**
+#### Solid Working Knowledge
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=xGobx&show_icons=true&theme=radical" height="165" alt="Stats Graph"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=xGobx&layout=compact&theme=radical" height="165" alt="Languages Graph"/>
+<img src="https://skillicons.dev/icons?i=rust,python,nodejs" height="40" alt="Solid Working Knowledge Technologies" />
+</div>
+
+#### Developing Skills
+<div align="center">
+<img src="https://skillicons.dev/icons?i=js,firebase,azure,flutter" height="40" alt="Developing Skills Technologies" />
+</div>
+
+#### Learning Basics
+<div align="center">
+<img src="https://skillicons.dev/icons?i=linux" height="40" alt="Learning Basics Technologies" />
+</div>
+
+### 🛠️ **Tools & Technologies**
+<div align="center">
+<img src="https://skillicons.dev/icons?i=mongodb,tailwind,postman,git,eclipse,visualstudio" height="40" alt="Tools and Technologies" />
 </div>
 
 ## 🖥️ **Workstation**
-
 <details>
   <summary>Office Setup</summary>
   <ul>
