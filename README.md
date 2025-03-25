@@ -17,27 +17,27 @@
 <br><br>
 ### 🛠️ **Language & Technology Proficiency**
 #### Strong Proficiency
-<div align="center">
+<div align="left">
 <img src="https://skillicons.dev/icons?i=react,mysql,java,cs,dotnet" height="40" alt="Strong Proficiency Technologies" />
 </div>
 
 #### Solid Working Knowledge
-<div align="center">
+<div align="left">
 <img src="https://skillicons.dev/icons?i=rust,python,nodejs" height="40" alt="Solid Working Knowledge Technologies" />
 </div>
 
 #### Developing Skills
-<div align="center">
+<div align="left">
 <img src="https://skillicons.dev/icons?i=js,firebase,azure,flutter" height="40" alt="Developing Skills Technologies" />
 </div>
 
 #### Learning Basics
-<div align="center">
+<div align="left">
 <img src="https://skillicons.dev/icons?i=linux" height="40" alt="Learning Basics Technologies" />
 </div>
 
 ### 🛠️ **Tools & Technologies**
-<div align="center">
+<div align="left">
 <img src="https://skillicons.dev/icons?i=mongodb,tailwind,postman,git,eclipse,visualstudio" height="40" alt="Tools and Technologies" />
 </div>
 
