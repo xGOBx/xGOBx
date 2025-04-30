@@ -4,7 +4,7 @@
     <img src="https://i.imgur.com/wYOC0HL.png" alt="My-banner">
 </h3>
 
-# 👋 Hi there, I'm Gaven Pearl
+# 👋 Hi there, I'm Gaven Pearl 👨🏻‍💻
 
 I approach programming as both an art and a science—each line of code is like a sentence in a logical story.
 Through that story, well-designed and functional software takes shape—where structure and creativity work together to bring ideas to life.
@@ -62,6 +62,7 @@ I am consistently focused on solving real-world and personal challenges through 
   <ul>
     <li>Case: NCASE M1</li>
     <li>CPU: Intel Core i9-9900K</li>
+    <li>GPU: Zotac GeForce GTX 1660 SUPER</li>
     <li>Heatsink: Noctua NH-U9S</li>
     <li>Motherboard: ASRock Z390m-ITX</li>
     <li>Memory: G.Skill Trident Z RGB 32 GB (2 x 16 GB) DDR4-3600</li>
